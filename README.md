@@ -14,7 +14,7 @@
 - Importe o projeto: File -> Import... -> Existing Projects into Worksparce -> Browse... -> localize o diretório -> Abra a pasta SUPERA - Desafio de Lógica - -> Finish;
 - Para executar -> src/Desafio?/Desafio?.java(Obs.: o "?" significa escolha o pacote/arquivo para executar)
 
-## Concluido
+## Tarefas concluidas
 
 - Desafio 1 OK
 - Desafio 2 OK
